@@ -20,6 +20,8 @@ Contoh:
 
 ### Membuat Unorder List
 Unordered list adalah list yang tak terurut yang menggunakan simbol-simbol pada item-nya. Unordered list dibuat dengan tag <ul> dan untuk item-nya dibuat juga dengan tag <li>.
+    
+![image.png](https://imgur.com/IdJZ8HQ.png )    
 
 
 ##<ul>
