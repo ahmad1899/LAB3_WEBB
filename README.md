@@ -1,3 +1,7 @@
+![image.png]( {https://imgur.com/IdJZ8HQ  } )
+
+
+
 ### Cara Membuat Order List
 Ordered list dibuat dengan tag <ol>. Lalu di dalamnya diisi dengan item-item yang akan dimasukkan ke dalam list. Item dibuat dengan tag <li> (list item).
 Digunakan untuk membuat daftar dimana tiap bagiannya ditandai
