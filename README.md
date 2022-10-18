@@ -21,7 +21,7 @@ Contoh:
 ### Membuat Unorder List
 Unordered list adalah list yang tak terurut yang menggunakan simbol-simbol pada item-nya. Unordered list dibuat dengan tag <ul> dan untuk item-nya dibuat juga dengan tag <li>.
     
-![image.png](https://imgur.com/IdJZ8HQ.png )    
+![image.png](https://imgur.com/GBkyJHG.png)    
 
 
 ##<ul>
@@ -35,6 +35,8 @@ Unordered list adalah list yang tak terurut yang menggunakan simbol-simbol pada 
 
 ### Membuat Web Description List
 Description List adalah list yang berisi deksripsi atau penjelasan dari sesuatu.
+ ![image.png](https://imgur.com/EpuhBJE.png)  
+ 
 
 Ada tiga tag yang digunakan untuk membuat description list:
 
@@ -62,6 +64,8 @@ Format penulisannya seperti ini:
 
 ### Cara Membuat Tag tabel html
 ##Salah satu cara atau format menampilkan informasi dalam web adalah dengan tabel.
+    ![image.png](https://imgur.com/K8JtL72.png)      
+    
 
 Tabel terdiri dari 4 unsur utama:
 
@@ -89,7 +93,7 @@ Tabel terdiri dari 4 unsur utama:
 
 
 ###Tag yang paling penting untuk diingat adalah tag <table>, <tr>, dan <td>. Sementara tag yang lain adalah tambahan (opsional), boleh digunakan boleh tidak
-
+![image.png](https://imgur.com/iBDcG5m.png)
 
 ### <table border="1" cellpadding="4" cellspacing="0">
     <thead>
@@ -147,6 +151,9 @@ Tabel terdiri dari 4 unsur utama:
 
 ### Cara Membuat Form tabel Html
 Form di HTML dapat kita buat dengan tag <form>.
+ ![image.png](https://imgur.com/PejTPN8.png)
+  ![image.png](https://imgur.com/zna72Vr.png )
+
 
 Tag ini memiliki beberapa atribut yang harus diberikan, seperti:
 
